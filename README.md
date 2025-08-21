@@ -67,4 +67,3 @@ docker compose up
 
 Running the above command starts all defined services, including the
 application itself.
-
